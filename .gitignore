@@ -50,6 +50,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+Data/Churn_Modelling.csv
+Annvenv/
+venv/
 
 # Translations
 *.mo
